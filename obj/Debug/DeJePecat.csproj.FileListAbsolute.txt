@@ -1,0 +1,17 @@
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\DeJePecat.exe.config
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\DeJePecat.exe
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\DeJePecat.pdb
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.csprojResolveAssemblyReference.cache
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.Form1.resources
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.Properties.Resources.resources
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.csproj.GenerateResource.Cache
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.exe
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.pdb
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.CompareResults.resources
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.LabelResults.resources
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\Emgu.CV.World.dll
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\bin\Debug\Emgu.CV.World.xml
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.InitialForm.resources
+C:\Users\zmarkoc\Documents\Visual Studio 2015\Projects\DeJePecat\obj\Debug\DeJePecat.MakeJson.resources
